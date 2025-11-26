@@ -1,0 +1,2 @@
+timestamp,host,cpu_percent,cpu_count,memory_total,memory_used,memory_available,memory_percent,disk_total,disk_used,disk_free,disk_percent,bytes_sent,bytes_recv,packets_sent,packets_recv,uptime_seconds,top_process_pid,top_process_name,top_process_cpu_percent
+2025-10-28T01:11:21.217629+00:00,MXNVD4N2D,4.3,4,8490786816,6720413696,1770373120,79.1,4.99229E+11,2.3515E+11,2.64079E+11,47.1,3162630,9309638,5439,35715,797,0,System Idle Process,349.8

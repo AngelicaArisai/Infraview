@@ -1,0 +1,2 @@
+timestamp,host,cpu_percent,cpu_count,memory_total,memory_used,memory_available,memory_percent,disk_total,disk_used,disk_free,disk_percent,bytes_sent,bytes_recv,packets_sent,packets_recv,uptime_seconds,top_process_pid,top_process_name,top_process_cpu_percent
+2025-10-28T00:41:21.382049+00:00,DESKTOP-TS5DR19,31.5,4,8464728064,6952132608,1512595456,82.1,255375003648,231259123712,24115879936,90.6,23044514,171747927,58519,307258,116687,0,System Idle Process,129.0
